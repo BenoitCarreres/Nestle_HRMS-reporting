@@ -3,6 +3,8 @@ Report generator for targeted HRMS standard-addition-based analysis
 
 AUTHOR: Benoit Manuel Carreres, for Société des Produits Nestlé SA
 
+<b><i>This tool is under continuous development and we invite users to come forward with comments, suggestions, bug reports or pull requests.</i></b>
+
 ## Installation
 
 - Software was tested for R 4.0.2
