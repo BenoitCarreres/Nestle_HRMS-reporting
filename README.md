@@ -1,5 +1,8 @@
 # Nestle_HRMS-reporting
-Report generator for targeted HRMS standard-addition-based analysis 
+Report generator for targeted HRMS standard-addition-based analysis
+
+The article about this tool can be found on the journal "Food Additives & Contaminants: Part A":
+https://doi.org/10.1080/19440049.2022.2118865
 
 AUTHOR: Benoit Manuel Carreres, for Société des Produits Nestlé SA
 
